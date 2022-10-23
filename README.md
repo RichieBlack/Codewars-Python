@@ -15,5 +15,5 @@ while you_Alive:
     else:
         code()
         repeat()
-    return all(f"wasted" {money} "and" {time})
+    return all(f"wasted {money} and {time}")
 ```
