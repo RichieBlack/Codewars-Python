@@ -16,7 +16,7 @@ def remove(s, n):
             list_s.pop(i)
         n -= 1
 
-    return (''.join(list_s))
+    return ''.join(list_s)
 
 
 """Best practices
