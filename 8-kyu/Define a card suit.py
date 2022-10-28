@@ -35,5 +35,6 @@ def define_suit(card):
 define_suit = lambda card: {'C': 'clubs', 'S': 'spades', 'D': 'diamonds', 'H': 'hearts'}[card[-1]]
 
 -------------
+"""
 
 # https://www.codewars.com/kata/reviews/5a3bb928f4f64c826c0012f0/groups/63358166ee5fc70001adf992
