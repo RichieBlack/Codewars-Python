@@ -1,4 +1,11 @@
-# link: https://www.codewars.com/kata/55a75e2d0803fea18f00009d/solutions/python
+"""
+@File    : Find the Slope.py
+@Author  : Richie Black
+@Time    : 26.10.2022 20:47
+
+I have been learning Python since August 2022.
+"""
+
 
 def find_slope(points):
     a, b, c, d = points
@@ -8,8 +15,6 @@ def find_slope(points):
     else:
         return str(int((b - d) / (a - c)))
 
-
-# I have been studying Python for two months.
 
 '''
 Best practices
@@ -29,3 +34,5 @@ def find_slope(points):
 
 --------------
 '''
+
+# https://www.codewars.com/kata/reviews/55dbedf7865e93737400000e/groups/63465cbf8c27ed00016ffd6b

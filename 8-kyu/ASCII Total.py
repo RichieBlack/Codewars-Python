@@ -1,3 +1,12 @@
+"""
+@File    : ASCII Total.py
+@Author  : Richie Black
+@Time    : 26.10.2022 22:57
+
+I have been learning Python since August 2022.
+"""
+
+
 def uni_total(s):
     sum_chars = []
 
@@ -6,7 +15,6 @@ def uni_total(s):
 
     return sum(sum_chars)
 
-# I have been studying Python for two months.
 
 '''
 Best practices
@@ -21,3 +29,5 @@ def uni_total(s):
 
 --------------
 '''
+
+# https://www.codewars.com/kata/reviews/572cfec7a321a296a3000058/groups/6346b4737b911e0001bc6a9b

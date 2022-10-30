@@ -1,7 +1,15 @@
+"""
+@File    : Find the Integral.py
+@Author  : Richie Black
+@Time    : 25.10.2022 12:27
+
+I have been learning Python since August 2022.
+"""
+
+
 def integrate(coefficient, exponent):
     return f'{int(coefficient / (exponent + 1))}x^{exponent + 1}'
 
-# I have been studying Python for two months.
 
 '''
 Best practices
@@ -19,3 +27,5 @@ def integrate(c, e):
 
 --------------
 '''
+
+# https://www.codewars.com/kata/reviews/5c3e18c0478204000135e5c1/groups/63474dda7b911e0001bc8fdb

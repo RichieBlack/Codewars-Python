@@ -20,3 +20,5 @@ def ensure_question(s):
 def ensure_question(s):
     return s if s.endswith('?') else s + '?'
 '''
+
+# https://www.codewars.com/kata/reviews/5ff7156ce4f95100016449b9/groups/634753119f0a14000143270d
