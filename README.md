@@ -5,7 +5,7 @@
 
 I started learning Python since August 2022.
 
-https://www.codewars.com/users/Richie%20Black/badges/large
+![alt text](https://www.codewars.com/users/Richie%20Black/badges/large)
 
 ```python
 def codefather_rules():
